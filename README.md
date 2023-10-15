@@ -30,7 +30,6 @@ E pronto.
 * CSS
 * JavaScript
 * Bootstrap
-## 🖇️ Colaborando
 
 
 ## ✒️ Autores
